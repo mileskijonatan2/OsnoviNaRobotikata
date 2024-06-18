@@ -1,3 +1,3 @@
 # OsnoviNaRobotikata
-### Run sketch-rob.io
-### Run 
+### Run sketch-rob.ino
+### Run read_coordinates.py
