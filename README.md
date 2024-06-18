@@ -1,3 +1,2 @@
 # OsnoviNaRobotikata
-### Run sketch-rob.ino
-### Run read_coordinates.py
+Use read_coordinates.py to get the visualization of the scanned object
