@@ -87,7 +87,7 @@ void loop() {
       float y = sin(beta*rad)*x;
       x = cos(beta*rad)*x;
 
-      if(x<30&&y<30&&distance<50&&x>0&&y>0){
+      if(x<30&&y<30&&distance<50){
         String coordinates = String(x) + ", " + String(y) + ", " + String(z) + ", " + String(pos) + ", " + String(distance);
         Serial.println(coordinates.c_str());
       }
