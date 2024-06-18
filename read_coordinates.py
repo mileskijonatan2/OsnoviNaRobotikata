@@ -3,8 +3,6 @@ import time
 import matplotlib.pyplot as plt
 
 if __name__ == '__main__':
-    import serial
-    import time
 
     COM_PORT = 'COM5'
     BAUD_RATE = 9600
